@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jackson Wesley
+# 👨🏻‍💻 Jackson Wesley
 
 **`Desenvolvedora FullStack`**
 
