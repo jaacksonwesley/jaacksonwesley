@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Jackson Wesley
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack `**
 
-Me chamo Jackson Wesley, tenho 28 anos e sou natural de Brasilia. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IFRS. Sou apaixonada por tecnologia,
+Busco uma oportunidade como Desenvolvedor Web Júnior, onde eu possa aplicar meus conhecimentos em HTML, CSS e JavaScript, PHP (etc).. colaborar com a equipe de desenvolvimento e continuar aprendendo tecnologias modernas do mercado.
 
 ### 🤖 Linguagens e Tecnologias
 
